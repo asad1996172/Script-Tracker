@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "888986973871",
+    "firebase_url": "https://live-scraping.firebaseio.com",
+    "project_id": "live-scraping",
+    "storage_bucket": "live-scraping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888986973871:android:071413836bc3641c86c65a",
+        "android_client_info": {
+          "package_name": "com.threeamigos.livescraping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888986973871-ioaf5hubkveg72lti260qh1k63kqasbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFcFsqG1PF9g7W7EVRW1UEoOB0nZoh_ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888986973871-ioaf5hubkveg72lti260qh1k63kqasbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
