@@ -15,26 +15,18 @@ class _ScrappersListState extends State<ScrappersList> {
   @override
   Widget build(BuildContext context) {
 
-    refreshKey = GlobalKey<RefreshIndicatorState>();
     final scrappers = Provider.of<DocumentSnapshot>(context);
     final List scrappers_list = [];
     if (scrappers != null){
       scrappers.data.forEach((k, v) => scrappers_list.add(v));
     }
     print(scrappers_list);
-    return RefreshIndicator(
-      key: refreshKey,
-      onRefresh: () async {
-        if (scrappers != null) {
-          scrappers.data.forEach((k, v) => scrappers_list.add(v));
-        }
-      },
-      child: ListView.builder(
+    return
+      ListView.builder(
         itemCount: scrappers_list.length,
         itemBuilder: (context, index) {
           return ScapperTile(scrappers_item: scrappers_list[index]);
-        },
-      ),
-    );
+        }
+      );
   }
 }

@@ -193,50 +193,51 @@ class DetailedInformation extends StatelessWidget {
                   SizedBox(
                     height: 20.0,
                   ),
-                  SingleChildScrollView(
-                    child: Column(
-                      children: <Widget>[
-                        Text(
+                  Column(
+                    children: <Widget>[
+                      Align(
+                        alignment: Alignment.center,
+                        child: Text(
                           'Exceptions List',
                           style: TextStyle(
                               color: Color(0xFF2A0250),
                               fontSize: 20.0,
                               fontWeight: FontWeight.bold),
                         ),
-                        for (var item in scrappers_item['unique_crash_logs'])
-                          Column(
-                            children: <Widget>[
-                              SizedBox(
-                                height: 20.0,
-                              ),
-                              SizedBox(
-                                width: double.infinity,
-                                child: FlatButton(
-                                  disabledColor: Color(0xFF2A0250),
-                                  onPressed: null,
-                                  shape: RoundedRectangleBorder(
-                                    borderRadius: BorderRadius.circular(30.0),
-                                  ),
-                                  child: Padding(
-                                    padding:
-                                    EdgeInsets.fromLTRB(10.0, 20.0, 10.0, 20.0),
-                                    child: Align(
-                                      alignment: Alignment.centerLeft,
-                                      child: Text(
-                                        item,
-                                        style: TextStyle(
-                                          color: Colors.white,
-                                          fontSize: 17.0,
-                                        ),
+                      ),
+                      for (var item in scrappers_item['unique_crash_logs'])
+                        Column(
+                          children: <Widget>[
+                            SizedBox(
+                              height: 20.0,
+                            ),
+                            SizedBox(
+                              width: double.infinity,
+                              child: FlatButton(
+                                disabledColor: Color(0xFF2A0250),
+                                onPressed: null,
+                                shape: RoundedRectangleBorder(
+                                  borderRadius: BorderRadius.circular(30.0),
+                                ),
+                                child: Padding(
+                                  padding:
+                                  EdgeInsets.fromLTRB(10.0, 20.0, 10.0, 20.0),
+                                  child: Align(
+                                    alignment: Alignment.centerLeft,
+                                    child: Text(
+                                      item,
+                                      style: TextStyle(
+                                        color: Colors.white,
+                                        fontSize: 17.0,
                                       ),
                                     ),
                                   ),
                                 ),
                               ),
-                            ],
-                          )
-                      ],
-                    ),
+                            ),
+                          ],
+                        )
+                    ],
                   ),
                   SizedBox(
                     height: 20.0,
