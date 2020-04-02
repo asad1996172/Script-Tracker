@@ -10,6 +10,7 @@ Script Tacker provides an Android and Ios mobile application based dashboard to 
 ## To Do
 
 -   [ ] Add Single variables tracking  (V_0.2) 
+-   [x] Secure DB and Api_keys
 -   [x] Sample todo 
 
 
