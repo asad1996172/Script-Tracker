@@ -13,7 +13,7 @@ Script Tacker provides an Android and Ios mobile application based dashboard to 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="https://github.com/Zeeshanahmad4/Script-Tracker/blob/master/resources/circle-cropped.png" alt="Logo" width="120" height="128">  </a>
+    <img src="https://github.com/Zeeshanahmad4/Script-Tracker/blob/master/resources/circle-cropped.png" alt="Logo" width="130" height="128">  </a>
   <h3 align="center">Script Tracker</h3>
   
 <p align="center">
