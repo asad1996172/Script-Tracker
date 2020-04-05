@@ -18,7 +18,7 @@ Script Tacker provides an Android and Ios mobile application based dashboard to 
 <br />
 <p align="center">
   <a href="https://github.com/Zeeshanahmad4/Facebook-Automation-bot-with-Multilogin-and-Proxies">
-    <img src="https://image.flaticon.com/icons/svg/888/888839.svg" alt="Logo" width="60" height="65">
+    <img src="https://image.flaticon.com/icons/svg/888/888839.svg" alt="Logo" width="50" height="60">
 
  
 
