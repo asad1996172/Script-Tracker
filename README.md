@@ -9,6 +9,18 @@
 
 Script Tacker provides an Android and Ios mobile application based dashboard to perform live tracking of your scripts. Currently this is only supporting python. Users can track the progress of their scripts from anywhere. Mobile applications are created using Flutter platform and server side is managed using Firebase.
 
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/Zeeshanahmad4/Facebook-Automation-bot-with-Multilogin-and-Proxies">
+    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/bot-136-504893.png" alt="Logo" width="120" height="128">
+  </a>
+![GitHub license](https://image.flaticon.com/icons/svg/888/888839.svg)</a> <br>
+   You can contact me for any queries setting up the project i will be happy to help.</h3>
+</p>
+
+
 ## To Do
 
 -   [ ] Add Single variables tracking  (V_0.2) 
