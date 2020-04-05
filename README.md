@@ -38,7 +38,7 @@ Script Tacker provides an Android and Ios mobile application based dashboard to 
 # Developed By
 
 * Asad Mahmood
-  * [Asad Mahmood](Asad Mahmood)- <asad007mahmood@gmail.com>
+  * [asadmahmood.me](http://asadmahmood.me)- <asad007mahmood@gmail.com>
   
 * Zeeshan Ahmad 
   * [zeeshanahmad.me](http://zeeshanahmad.me) - <ahmadzee26@gmail.com>
