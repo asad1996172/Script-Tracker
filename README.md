@@ -22,3 +22,15 @@ Script Tacker provides an Android and Ios mobile application based dashboard to 
 <a href="https://www.buymeacoffee.com/zeedsadasda2323" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ---
+
+
+
+# Developed By
+
+* Asad Mahmood
+  * [Asad Mahmood](Asad Mahmood)- <asad007mahmood@gmail.com>
+  
+* Zeeshan Ahmad 
+  * [zeeshanahmad.me](http://zeeshanahmad.me) - <ahmadzee26@gmail.com@gmail.com>
+
+
