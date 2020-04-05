@@ -18,14 +18,8 @@ Script Tacker provides an Android and Ios mobile application based dashboard to 
   <h3 align="center">Script Tracker</h3>
   
 <p align="center">
-  <a href="https://github.com/Zeeshanahmad4/Facebook-Automation-bot-with-Multilogin-and-Proxies">
     <img src="https://img.icons8.com/color/480/000000/google-play.png" alt="Logo" width="50" height="60">
-   
-<p align="center">
-  <a href="https://github.com/Zeeshanahmad4/Facebook-Automation-bot-with-Multilogin-and-Proxies">
-    <img src="https://image.flaticon.com/icons/svg/831/831276.svg" alt="Logo" width="50" height="60">
- 
-
+       <img src="https://image.flaticon.com/icons/svg/831/831276.svg" alt="Logo" width="50" height="60">
 
 
 ## To Do
