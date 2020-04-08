@@ -24,10 +24,48 @@ Script Tacker provides an Android and Ios mobile application based dashboard to 
 ![Demo](https://github.com/Zeeshanahmad4/Script-Tracker/blob/master/Demo.gif)
 
 
+## Table of Contents
+
+* [Features](#Features)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Usage](#usage)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [License](#license)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
+
+
+## Features
+
+-   Download **unlimited** post metadata from the User, Hashtag, Trends, or Music-Id pages
+-   Save post metadata to the JSON/CSV files
+-   Download media **with and without the watermark** and save to the ZIP file
+-   Download single video without the watermark from the CLI
+
+
+### Installation
+
+
+To install Script-Tracker:
+```sh
+pip install script-tracker```
+
+
+1. Clone the repo
+```sh
+git clone https://github.com/asad1996172/Script-Tracker.git
+```
+
+## Usage
+
 
 ## To Do
 
--   [ ] Add Single variables tracking  (V_0.2) 
+-   [ ] Add Single variables tracking  (V_0.2)
+-   [ ] Screenshot fucntionalities 
 -   [x] Sample todo 
 
 
