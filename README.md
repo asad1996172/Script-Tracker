@@ -62,8 +62,8 @@ git clone https://github.com/asad1996172/Script-Tracker.git
 
 ### Prerequisites
 
-1- Download and install the app in your phone
-2- Register an account 
+ 1-    Download and install the app in your phone
+ 2-    Register an account 
 
 ### Import and initilize
 
