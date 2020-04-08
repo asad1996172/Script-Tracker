@@ -34,7 +34,7 @@ Script Tacker provides an Android and Ios mobile application based dashboard to 
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
-* [Contact](#contact)
+* [Developed By](#Developed By)
 * [Acknowledgements](#acknowledgements)
 
 
@@ -68,13 +68,6 @@ git clone https://github.com/asad1996172/Script-Tracker.git
 -   [ ] Add Single variables tracking  (V_0.2)
 -   [ ] Screenshot fucntionalities 
 -   [x] Sample todo 
-
-
----
-
-<a href="https://www.buymeacoffee.com/zeedsadasda2323" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
----
 
 
 
