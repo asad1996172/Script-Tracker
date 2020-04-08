@@ -27,10 +27,9 @@ Script Tacker provides an Android and Ios mobile application based dashboard to 
 ## Table of Contents
 
 * [Features](#Features)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
+* [Installation](#installation)
 * [Usage](#usage)
+  * [Prerequisites](#prerequisites)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
@@ -45,7 +44,7 @@ Script Tacker provides an Android and Ios mobile application based dashboard to 
 -   Script Compelete/Crashed ** report** 
 -   Elapsed time of the script
 
-### Installation
+## Installation
 
 
 To install Script-Tracker:
