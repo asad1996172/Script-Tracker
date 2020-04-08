@@ -43,8 +43,8 @@ Script Tacker provides an Android and Ios mobile application based dashboard to 
 -   Real time report/status of your script on an android/ios app
 -   Unlimited scripts
 -   Numbers of **loops** Done/Crashed
--   Script **Crashed/compelete report**
--   Elapsed time
+-   Script Compelete/Crashed ** report** 
+-   Elapsed time of the script
 
 ### Installation
 
