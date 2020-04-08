@@ -62,10 +62,31 @@ git clone https://github.com/asad1996172/Script-Tracker.git
 
 ### Prerequisites
 
-- Download and install the app
-- Register and account
+1- Download and install the app in your phone
+2- Register an account 
 
+### Import and initilize
 
+In your script/bot/scraper/python code
+
+```
+from script_tracker import ScriptTracker
+
+```
+
+```
+script_tracker = ScriptTracker()
+script_tracker.initialize('registeraccount@gmail.com', 'Password', 'Script Name')
+
+```
+
+### Options in your script:
+```
+  --initialize()                 initialize the script                        [your_email, your_password, script_name]
+  --set_status_to_completed()    flag for successfully completion of script   [Null]
+  --set_status_to_crashed()      flag for crashing of script                  [Null]
+  --send_data()                  sending data to your app's Dashboard         [total_done, total_crashed,unique_crash_logs]                                   
+```
 
 
 ## To Do
