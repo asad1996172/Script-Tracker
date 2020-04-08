@@ -88,7 +88,34 @@ script_tracker.initialize('registeraccount@gmail.com', 'Password', 'Script Name'
   --send_data()                  sending data to your app's Dashboard         [total_done, total_crashed,unique_crash_logs]                                   
 ```
 
+### Example:
+Supose I want to track my script while I am in the university taking lectuares and script is either running in online server or at home in my local server.
 
+```from script_tracker import ScriptTracker. #importing tracker in my script
+import time 
+
+script_tracker = ScriptTracker() #creating an object
+script_tracker.initialize('registeraccount@gmail.com', 'Password','Script Name')#initializing with my credentials and s-name
+
+total_done = 0 #variable to sore success loops
+total_crashed = 0 #variable for crashed loops
+crash_flag = 0 
+unique_crash_logs = []
+for i in range(10):
+    crash_flag += 1
+    if crash_flag==4:  # collecing crashes
+        total_crashed+=1
+        crash_flag = 0
+    else:
+        total_done += 1 #collecting done 
+    script_tracker.send_data(total_done, total_crashed, unique_crash_logs) #sending data to my app's Dashboard
+
+script_tracker.set_status_to_completed() #if script successfully completed 
+```
+
+```
+script_tracker.set_status_to_crashed() #if script crash for some use this
+```
 ## To Do
 
 -   [ ] Add Single variables tracking  (V_0.2)
