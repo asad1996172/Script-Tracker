@@ -89,9 +89,10 @@ script_tracker.initialize('registeraccount@gmail.com', 'Password', 'Script Name'
 ```
 
 ### Example:
-Supose I want to track my script while I am in the university taking lectuares and script is either running in online server or at home in my local server.
+Suppose I want to track my script while I am in the university taking lecturer or outside having fun with friends and script is either running in online server or at home in my local server.
 
-```from script_tracker import ScriptTracker. #importing tracker in my script
+```
+from script_tracker import ScriptTracker. #importing tracker in my script
 import time 
 
 script_tracker = ScriptTracker() #creating an object
