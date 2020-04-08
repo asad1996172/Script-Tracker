@@ -34,7 +34,7 @@ Script Tacker provides an Android and Ios mobile application based dashboard to 
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
-* [Developed By](#Developed By)
+* [Developed by](#Developed-By)
 * [Acknowledgements](#acknowledgements)
 
 
@@ -71,7 +71,7 @@ git clone https://github.com/asad1996172/Script-Tracker.git
 
 
 
-# Developed By
+# Developed by
 
 * Asad Mahmood
   * [asadmahmood.me](http://asadmahmood.me)- <asad007mahmood@gmail.com>
