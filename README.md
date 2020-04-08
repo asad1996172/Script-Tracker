@@ -8,6 +8,18 @@
       alt="Donate" />
   </a>
 
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+    <img src="https://github.com/Zeeshanahmad4/Script-Tracker/blob/master/resources/circle-cropped.png" alt="Logo" width="160" height="156">  </a>
+  <h2 align="center">Script Tracker</h2>
+  
+<p align="center">
+    <img src="https://img.icons8.com/color/480/000000/google-play.png" alt="Logo" width="50" height="60">
+       <img src="https://image.flaticon.com/icons/svg/831/831276.svg" alt="Logo" width="50" height="60">
+  
+  
 Script Tacker provides an Android and Ios mobile application based dashboard to perform live tracking of your scripts. Currently this is only supporting python. Users can track the progress of their scripts from anywhere. Mobile applications are created using Flutter platform and server side is managed using Firebase.
 
 
@@ -16,15 +28,7 @@ Script Tacker provides an Android and Ios mobile application based dashboard to 
 
 
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-    <img src="https://github.com/Zeeshanahmad4/Script-Tracker/blob/master/resources/circle-cropped.png" alt="Logo" width="130" height="128">  </a>
-  <h3 align="center">Script Tracker</h3>
-  
-<p align="center">
-    <img src="https://img.icons8.com/color/480/000000/google-play.png" alt="Logo" width="50" height="60">
-       <img src="https://image.flaticon.com/icons/svg/831/831276.svg" alt="Logo" width="50" height="60">
+
 
 
 ## To Do
