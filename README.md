@@ -77,7 +77,7 @@ git clone https://github.com/asad1996172/Script-Tracker.git
 
 <!-- ROADMAP -->
 ## Roadmap
-See the [open issues](https://github.com/Zeeshanahmad4/Facebook-Automation-bot-with-Multilogin-and-Proxies/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/asad1996172/Script-Tracker.git/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
