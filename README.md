@@ -51,10 +51,11 @@ Script Tacker provides an Android and Ios mobile application based dashboard to 
 
 To install Script-Tracker:
 ```sh
-pip install script-tracker```
+$ pip install script-tracker
 
+```
 
-1. Clone the repo
+Clone the repo
 ```sh
 git clone https://github.com/asad1996172/Script-Tracker.git
 ```
