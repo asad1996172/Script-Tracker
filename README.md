@@ -40,9 +40,9 @@ Script Tacker provides an Android and Ios mobile application based dashboard to 
 
 ## Features
 
--   Download **unlimited** post metadata from the User, Hashtag, Trends, or Music-Id pages
--   Save post metadata to the JSON/CSV files
--   Download media **with and without the watermark** and save to the ZIP file
+-   Real time report/status of your script on an android/ios app
+-   Numbers of **loops** Done
+-   Script **Crashed/compelete report**
 -   Download single video without the watermark from the CLI
 
 
