@@ -18,7 +18,7 @@
     <img src="https://img.icons8.com/color/480/000000/google-play.png" alt="Logo" width="50" height="60">
        <img src="https://image.flaticon.com/icons/svg/831/831276.svg" alt="Logo" width="50" height="60">
   
-Script Tacker provides an Android and Ios mobile application based dashboard to perform live tracking of your scripts. Currently this is only supporting python. Users can track the progress of their scripts from anywhere. Mobile applications are created using Flutter platform and server side is managed using Firebase.
+Script Tracker provides an Android and Ios mobile application based dashboard to perform live tracking of your scripts. Currently this is only supporting python. Users can track the progress of their scripts from anywhere. Mobile applications are created using Flutter platform and server side is managed using Firebase.
 
 # Demo
 ![Demo](https://github.com/asad1996172/Script-Tracker/blob/master/Demo.gif)
