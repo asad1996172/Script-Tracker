@@ -15,7 +15,7 @@
     <img src="https://github.com/asad1996172/Script-Tracker/blob/master/resources/circle-cropped.png" alt="Logo" width="160" height="156">  </a>
   <h2 align="center">Script Tracker</h2>
 <p align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.threeamigos.livescraping"<img src="https://img.icons8.com/color/480/000000/google-play.png" alt="Logo" width="50" height="60">/>
+    <a href="https://play.google.com/store/apps/details?id=com.threeamigos.livescraping"><img src="https://img.icons8.com/color/480/000000/google-play.png" alt="Logo" width="50" height="60"></a>
        <img src="https://image.flaticon.com/icons/svg/831/831276.svg" alt="Logo" width="50" height="60">
   
 Script Tracker provides an Android and Ios mobile application based dashboard to perform live tracking of your scripts. Currently this is only supporting python. Users can track the progress of their scripts from anywhere. Mobile applications are created using Flutter platform and server side is managed using Firebase.
